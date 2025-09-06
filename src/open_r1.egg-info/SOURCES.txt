@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/open_r1.egg-info/PKG-INFO
+src/open_r1.egg-info/SOURCES.txt
+src/open_r1.egg-info/dependency_links.txt
+src/open_r1.egg-info/not-zip-safe
+src/open_r1.egg-info/requires.txt
+src/open_r1.egg-info/top_level.txt
+tests/test_code_reward.py
